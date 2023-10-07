@@ -4,4 +4,4 @@ Projet pour le cours de GNG 2501 où nous allons programmer un logiciel qui trad
 De la part de; Ayah Kanaan, 7831689
 Bwen Kayembe Entus, 30030868
 Akram Boufennara, 300289086 et
-Biran Wann
+Biran Wann.
